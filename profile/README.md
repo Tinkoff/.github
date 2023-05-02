@@ -1,3 +1,6 @@
+
+![Open source проекты Тинькофф](https://raw.githubusercontent.com/Tinkoff/.github/main/profile/tinkoff_github_cover.png "Open source проекты Тинькофф")
+
 Привет! Это страница команды Тинькофф.
 Мы меняем финтех и помогаем решать ежедневные задачи более 30 миллионам людей с помощью технологий. 
 
